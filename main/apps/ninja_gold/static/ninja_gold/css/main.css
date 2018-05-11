@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.area{
+    display:inline-block;
+    width:200px;
+    height:200px;
+    margin:5px;
+    text-align:center;
+    border:2px solid black;
+}
+#activitiesbox{
+    height:300px;
+    border:2px solid black;
+    overflow:scroll;
+    margin:5px;
+}
+.wrapper{
+    width:900px;
+}
+#won{
+    color:green;
+}
+#lost{
+    color:red;
+}
